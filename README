@@ -1,0 +1,6 @@
+Please use python 2.7 to run this tool.
+
+Execute "python main.py -h" for further information on the available commands
+
+While extracting a message, if the tool doesn't stop after a brief ammount of time, please abort the execution of the program and check if the stego-key is correct or if the epub really contains a hidden message.
+
